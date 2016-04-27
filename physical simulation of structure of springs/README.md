@@ -3,12 +3,12 @@
 ## Dynamics
 
 ### Central difference method
-![Central difference method](/physical simulation of structure of springs/animation1.gif)
+![Central difference method](/physical simulation of structure of springs/images/central-difference.gif)
 
 ### Newmark method
-![Newmark method](/physical simulation of structure of springs/animation2.gif)
+![Newmark method](/physical simulation of structure of springs/images/newmark.gif)
 
 ## Statics
 
 ### Newton-Raphson method
-![Newton-Raphson method](/physical simulation of structure of springs/animation3.gif)
+![Newton-Raphson method](/physical simulation of structure of springs/images/newton-raphson.gif)
