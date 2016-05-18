@@ -1,4 +1,4 @@
-# Approximation of 3D object using different methods
+# Approximation of 3D object using different methods (file `u1.m`)
 
 ## Before approximation
 
