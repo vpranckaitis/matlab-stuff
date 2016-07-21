@@ -1,2 +1,2 @@
 # Skeleton animation (file `u2.m`)
-![Original model](/skeleton animation/images/animation.gif)
+![Skeleton animation](/skeleton animation/images/animation.gif)
