@@ -1,0 +1,3 @@
+[submodule "matlabVoxelization"]
+	path = matlabVoxelization
+	url = git@github.com:vpranckaitis/matlabVoxelization.git
