@@ -1,13 +1,13 @@
 # Simulation of thermal conductivity using FEM (Finite Element Method)
 
 ## Given problem
-![given problem](/simulation of thermal conductivity using FEM/images/problem.png)
+![given problem](images/problem.png)
 
 ## Large elements
-![large elements](/simulation of thermal conductivity using FEM/images/animation1.gif)
+![large elements](images/animation1.gif)
 
 ## Medium elements
-![medium elements](/simulation of thermal conductivity using FEM/images/animation2.gif)
+![medium elements](images/animation2.gif)
 
 ## Small elements
-![small elements](/simulation of thermal conductivity using FEM/images/animation3.gif)
+![small elements](images/animation3.gif)

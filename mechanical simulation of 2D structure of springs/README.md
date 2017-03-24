@@ -5,16 +5,16 @@
 ### Central difference method
 File `u1.m`
 
-![Central difference method](/mechanical simulation of 2D structure of springs/images/central-difference.gif)
+![Central difference method](images/central-difference.gif)
 
 ### Newmark method
 File `u2.m`
 
-![Newmark method](/mechanical simulation of 2D structure of springs/images/newmark.gif)
+![Newmark method](images/newmark.gif)
 
 ## Statics
 
 ### Newton-Raphson method
 File `u3.m`
 
-![Newton-Raphson method](/mechanical simulation of 2D structure of springs/images/newton-raphson.gif)
+![Newton-Raphson method](images/newton-raphson.gif)

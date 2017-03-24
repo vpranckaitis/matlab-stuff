@@ -3,16 +3,16 @@
 ## Before approximation
 
 ### Original model
-![Original model](/3d object approximation/images/original.PNG)
+![Original model](images/original.PNG)
 ### Sparse mesh
-![Sparse mesh](/3d object approximation/images/sparse-mesh.PNG)
+![Sparse mesh](images/sparse-mesh.PNG)
 ### Desnse mesh
-![Desnse mesh](/3d object approximation/images/dense-mesh.PNG)
+![Desnse mesh](images/dense-mesh.PNG)
 ## After approximation
 
 ### Lagrange interpolation
-![Lagrange interpolation](/3d object approximation/images/lagrange.PNG)
+![Lagrange interpolation](images/lagrange.PNG)
 ### Global splines interpolation
-![Global splines interpolation](/3d object approximation/images/global-splines.PNG)
+![Global splines interpolation](images/global-splines.PNG)
 ### NURBS approximation
-![NURBS approximation](/3d object approximation/images/nurbs.PNG)
+![NURBS approximation](images/nurbs.PNG)
